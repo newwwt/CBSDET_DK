@@ -1,0 +1,14 @@
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\ClearBank.DeveloperTest.dll
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\ClearBank.DeveloperTest.pdb
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.csprojAssemblyReference.cache
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.dll
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.pdb
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.abstractions.dll
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.assert.dll
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.core.dll
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.abstractions.xml
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.assert.xml
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.core.xml
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\bin\Debug\xunit.execution.desktop.xml
+C:\Users\d_kow\Desktop\CBSDET_Test\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.csproj.CopyComplete
